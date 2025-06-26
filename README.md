@@ -36,10 +36,11 @@ KompresAja adalah aplikasi web untuk kompresi gambar secara cepat, mudah, dan am
 ## Aplikasi
 
 - **Teknologi:** HTML5, CSS3 (Bootstrap 5), JavaScript, Bootstrap Icons.
-- **Link Aplikasi:** 
+- **Link Aplikasi:** https://famusproject.github.io/KompresAja/
 
 
 ## Manual Book
+![Manual Book](6.png)
 
 ### Cara Menggunakan
 
