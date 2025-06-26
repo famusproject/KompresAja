@@ -21,6 +21,10 @@ KompresAja adalah aplikasi web untuk kompresi gambar secara cepat, mudah, dan am
 #### Contoh Tampilan:
 
 ![Tampilan utama KompresAja](1.png)
+![Tampilan utama Form](2.png)
+![Tampilan utama Kelebihan Aplikasi](3.png)
+![Tampilan utama Panduan penggunaan dan Footer](4.png)
+![Tampilan utama Proses Kompres](5.png)
 
 ## Metode Kompresi
 
